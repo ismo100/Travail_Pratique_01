@@ -1,0 +1,118 @@
+[
+  {
+    "URI": " ",
+    "coords": {
+      "altitude": 84.44314839204912,
+      "altitudeAccuracy": 29.99999999999999,
+      "latitude": 46.819318991111096,
+      "accuracy": 8.298150369465164,
+      "longitude": -71.15469414230668,
+      "heading": -1,
+      "speed": -1
+    },
+    "date": "21/10/2024",
+    "address": [
+      {
+        "country": "Canada",
+        "city": "Lévis",
+        "subregion": "Lévis",
+        "street": "Rue du Vieux-Fort",
+        "region": "QC",
+        "district": "Lévis",
+        "timezone": "America/Toronto",
+        "streetNumber": "56",
+        "name": "56 Rue du Vieux-Fort",
+        "postalCode": "G6V 2C5",
+        "isoCountryCode": "CA"
+      }
+    ],
+    "sentier": "Testons voir"
+  },
+  {
+    "URI": "file:///var/mobile/Containers/Data/Application/DC01639C-FCEC-4B70-8CD3-3DC686E00112/Library/Caches/ExponentExperienceData/@anonymous/TP01-9d17970b-6436-47d6-bb17-db891a30c60a/Camera/05279A26-7E5F-4835-878A-2A77123F1608.jpg",
+    "coords": {
+      "altitude": 84.43494679292803,
+      "altitudeAccuracy": 30,
+      "latitude": 46.81931898038529,
+      "accuracy": 16.386459058298602,
+      "longitude": -71.15469421606075,
+      "heading": -1,
+      "speed": -1
+    },
+    "date": "21/10/2024",
+    "address": [
+      {
+        "country": "Canada",
+        "city": "Lévis",
+        "subregion": "Lévis",
+        "street": "Rue du Vieux-Fort",
+        "region": "QC",
+        "district": "Lévis",
+        "timezone": "America/Toronto",
+        "streetNumber": "56",
+        "name": "56 Rue du Vieux-Fort",
+        "postalCode": "G6V 2C5",
+        "isoCountryCode": "CA"
+      }
+    ],
+    "sentier": "Testons voir"
+  },
+  {
+    "URI": "file:///var/mobile/Containers/Data/Application/DC01639C-FCEC-4B70-8CD3-3DC686E00112/Library/Caches/ExponentExperienceData/@anonymous/TP01-9d17970b-6436-47d6-bb17-db891a30c60a/Camera/D4EF6C03-6FEA-449D-868E-6704082E4536.jpg",
+    "coords": {
+      "altitude": 84.32866169771319,
+      "altitudeAccuracy": 30.00010074721505,
+      "latitude": 46.81931897245524,
+      "accuracy": 20.857091974527208,
+      "longitude": -71.15469423686183,
+      "heading": -1,
+      "speed": -1
+    },
+    "date": "21/10/2024",
+    "address": [
+      {
+        "country": "Canada",
+        "city": "Lévis",
+        "subregion": "Lévis",
+        "street": "Rue du Vieux-Fort",
+        "region": "QC",
+        "district": "Lévis",
+        "timezone": "America/Toronto",
+        "streetNumber": "56",
+        "name": "56 Rue du Vieux-Fort",
+        "postalCode": "G6V 2C5",
+        "isoCountryCode": "CA"
+      }
+    ],
+    "sentier": "Testons voir"
+  },
+  {
+    "URI": "file:///var/mobile/Containers/Data/Application/DC01639C-FCEC-4B70-8CD3-3DC686E00112/Library/Caches/ExponentExperienceData/@anonymous/TP01-9d17970b-6436-47d6-bb17-db891a30c60a/Camera/3638D0CF-0B70-4234-B7F3-4ECCAA57C89D.jpg",
+    "coords": {
+      "altitude": 84.43494679292803,
+      "altitudeAccuracy": 30,
+      "latitude": 46.81931896773262,
+      "accuracy": 14.939407718114177,
+      "longitude": -71.15469425335321,
+      "heading": -1,
+      "speed": -1
+    },
+    "date": "21/10/2024",
+    "address": [
+      {
+        "country": "Canada",
+        "city": "Lévis",
+        "subregion": "Lévis",
+        "street": "Rue du Vieux-Fort",
+        "region": "QC",
+        "district": "Lévis",
+        "timezone": "America/Toronto",
+        "streetNumber": "56",
+        "name": "56 Rue du Vieux-Fort",
+        "postalCode": "G6V 2C5",
+        "isoCountryCode": "CA"
+      }
+    ],
+    "sentier": "Testons voir"
+  }
+]
